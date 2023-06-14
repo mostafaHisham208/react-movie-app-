@@ -1,0 +1,29 @@
+.links{
+    display: flex;
+    justify-content: space-between;
+    
+}
+NavLink{
+    text-decoration: none;
+}
+
+.navv{
+    text-decoration: none;
+    color: azure;
+
+}
+.navv:hover{
+    color: azure;
+   
+}
+.favcount{
+    margin-left: 5px;
+    padding-left: 5px ;
+    padding-right: 10px;
+    height: 10px;
+    display: inline;
+    background-color: rgb(130, 134, 134);
+    border-radius: 50%;
+    color: rgb(251, 255, 2);
+    text-shadow: chocolate;
+}

@@ -1,0 +1,14 @@
+.deta{
+    /* background-color: black; */
+    display: flex;
+    flex-wrap: nowrap;
+    
+}
+.linkl{
+    margin-top: 9px;
+    display: block;
+    height: 44px;
+}
+.videotag{
+    width: 600px !important;
+}

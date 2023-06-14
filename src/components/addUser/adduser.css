@@ -1,0 +1,10 @@
+.formlog{
+    margin-left: 25%;
+    margin-top: 5%;
+    width: 50%;
+}
+.shawpass{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
